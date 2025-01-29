@@ -1,6 +1,6 @@
-# FIFA Football Analytics Project 🎮⚽
+# FIFA Football Analysis ⚽
 
-Welcome to my FIFA Football Analytics project! This project involves performing Exploratory Data Analysis (EDA) on FIFA football data using Python and pandas.
+Welcome to my FIFA Football Analysis project! This project involves performing Exploratory Data Analysis (EDA) on FIFA football data using Python, Pandas and Seaborn.
 
 ## 📝 Project Overview
 - **Objective**: To analyze FIFA football data and uncover key insights about players, teams, and overall trends.
