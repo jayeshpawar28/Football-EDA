@@ -1,5 +1,5 @@
 # FIFA Football Analysis ⚽
-(https://github.com/jayeshpawar28/Football-EDA/blob/main/fifa_players_img)
+(https://github.com/jayeshpawar28/Football-EDA/fifa_players_img)
 
 Welcome to my FIFA Football Analysis project! This project involves performing Exploratory Data Analysis (EDA) on FIFA football data using Python, Pandas and Seaborn.
 
